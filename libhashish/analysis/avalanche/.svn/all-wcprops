@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/libhashish/!svn/ver/59/analysis/avalanche
+END
+avalanche.gpi
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libhashish/!svn/ver/59/analysis/avalanche/avalanche.gpi
+END
+avalanche.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/libhashish/!svn/ver/58/analysis/avalanche/avalanche.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/libhashish/!svn/ver/58/analysis/avalanche/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/libhashish/!svn/ver/140/analysis/chi_square
+END
+chi_square.gpi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libhashish/!svn/ver/140/analysis/chi_square/chi_square.gpi
+END
+chi_square.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libhashish/!svn/ver/140/analysis/chi_square/chi_square.c
+END
+chi_square_test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libhashish/!svn/ver/140/analysis/chi_square/chi_square_test.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/libhashish/!svn/ver/133/analysis/chi_square/Makefile
+END

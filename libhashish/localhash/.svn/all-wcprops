@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/libhashish/!svn/ver/142/localhash
+END
+mt.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/libhashish/!svn/ver/91/localhash/mt.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/libhashish/!svn/ver/41/localhash/random.c
+END
+datagen.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/libhashish/!svn/ver/43/localhash/datagen.c
+END
+libhashlocal.a
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/libhashish/!svn/ver/41/localhash/libhashlocal.a
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/libhashish/!svn/ver/142/localhash/Makefile
+END

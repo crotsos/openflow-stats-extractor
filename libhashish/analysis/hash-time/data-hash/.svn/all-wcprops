@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/libhashish/!svn/ver/159/analysis/hash-time/data-hash
+END
+data-hash-bench.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libhashish/!svn/ver/159/analysis/hash-time/data-hash/data-hash-bench.sh
+END
+data-hash-bench.gpi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libhashish/!svn/ver/159/analysis/hash-time/data-hash/data-hash-bench.gpi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libhashish/!svn/ver/159/analysis/hash-time/data-hash/Makefile
+END

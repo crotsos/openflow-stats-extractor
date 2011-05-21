@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libhashish/!svn/ver/160/analysis/hash-time/crypto-hash
+END
+crypto-hash-bench.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/libhashish/!svn/ver/160/analysis/hash-time/crypto-hash/crypto-hash-bench.sh
+END
+crypto-hash-bench.gpi
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/libhashish/!svn/ver/160/analysis/hash-time/crypto-hash/crypto-hash-bench.gpi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libhashish/!svn/ver/160/analysis/hash-time/crypto-hash/Makefile
+END

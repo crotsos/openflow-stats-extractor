@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svnroot/libhashish/!svn/ver/160
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/libhashish/!svn/ver/154/configure
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/libhashish/!svn/ver/1/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/libhashish/!svn/ver/12/CHANGELOG
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/libhashish/!svn/ver/92/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/libhashish/!svn/ver/1/README
+END

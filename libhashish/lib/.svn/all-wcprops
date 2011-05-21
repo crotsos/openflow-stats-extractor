@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/libhashish/!svn/ver/158/lib
+END
+hi_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/libhashish/!svn/ver/149/lib/hi_array.c
+END
+hash_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/libhashish/!svn/ver/147/lib/hash_func.c
+END
+hi_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/libhashish/!svn/ver/147/lib/hi_helper.c
+END
+hi_key_uint32_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/libhashish/!svn/ver/147/lib/hi_key_uint32_t.c
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/libhashish/!svn/ver/153/lib/threads.h
+END
+hi_key_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/libhashish/!svn/ver/147/lib/hi_key_str.c
+END
+hash_func_jenkins2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/libhashish/!svn/ver/137/lib/hash_func_jenkins2.c
+END
+hi_key_uint16_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/libhashish/!svn/ver/147/lib/hi_key_uint16_t.c
+END
+hash_func_jenkins3.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/libhashish/!svn/ver/136/lib/hash_func_jenkins3.c
+END
+hi_operations.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/libhashish/!svn/ver/150/lib/hi_operations.c
+END
+hi_rbtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/libhashish/!svn/ver/154/lib/hi_rbtree.c
+END
+hash_func_murmur.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/libhashish/!svn/ver/151/lib/hash_func_murmur.c
+END
+hi_iterator.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/libhashish/!svn/ver/122/lib/hi_iterator.c
+END
+hash_func_sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/libhashish/!svn/ver/95/lib/hash_func_sha1.c
+END
+hi_key_int32_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/libhashish/!svn/ver/147/lib/hi_key_int32_t.c
+END
+hash_func_goulburn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/libhashish/!svn/ver/79/lib/hash_func_goulburn.c
+END
+hi_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/libhashish/!svn/ver/147/lib/hi_set.c
+END
+lib_fini.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/libhashish/!svn/ver/147/lib/lib_fini.c
+END
+hi_key_int16_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/libhashish/!svn/ver/147/lib/hi_key_int16_t.c
+END
+cmp_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/libhashish/!svn/ver/147/lib/cmp_funcs.c
+END
+hash_func_hsieh.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/libhashish/!svn/ver/30/lib/hash_func_hsieh.c
+END
+hash_func_skein256.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/libhashish/!svn/ver/157/lib/hash_func_skein256.c
+END
+xutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/libhashish/!svn/ver/153/lib/xutils.c
+END
+lib_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/libhashish/!svn/ver/157/lib/lib_init.c
+END
+hi_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/libhashish/!svn/ver/153/lib/hi_list.c
+END
+hash_func_cube.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/libhashish/!svn/ver/158/lib/hash_func_cube.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/libhashish/!svn/ver/142/lib/Makefile
+END
+hi_bloom_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/libhashish/!svn/ver/147/lib/hi_bloom_filter.c
+END
